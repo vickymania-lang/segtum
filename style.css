@@ -466,11 +466,11 @@ a img.aligncenter {
 
 
 .top-navbar .bg-light{
-	background: #4c5a7d !important;
+	background: #fff !important;
 }
 
 .top-navbar .navbar-light .navbar-nav .nav-link{
-	color: #ffffff;
+	color: #448AFF;
 	font-size: 16px;
 	font-weight: 500;
 }
@@ -562,7 +562,7 @@ a img.aligncenter {
 	left: 40%;
 }
 .top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link{
-	color: #eea412;
+	color: #448AFF;
 }
 .top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link::after{
 	opacity: 1;
@@ -2845,7 +2845,7 @@ body.host_version .first-section .effect-1.slide-btn::after{
 /**-------------- inner Page css ---------------**/
 
 .all-title-box{
-	background: url(images/banner.jpg)no-repeat;
+	background: url(images/cotherBanner.jpeg)no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
